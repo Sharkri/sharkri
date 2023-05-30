@@ -10,7 +10,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=sharkri&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=sharkri&show_icons=true&theme=react"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -19,3 +19,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=sharkri&show_icons=true" />
 </picture>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sharkri&theme=react)](https://git.io/streak-stats)
